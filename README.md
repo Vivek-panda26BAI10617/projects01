@@ -26,7 +26,6 @@ Project Structure
 
 password-generator/
 password_generator.py
-testpasswordgenerator.py
 README.md
 requirements.txt
 
@@ -36,32 +35,8 @@ Requirements:
 - Python 3.8 or newer
 - No third-party packages
 
-`bash
-
-cd password-generator
-
-`
-
-Run the program:
-
-`bash
-
-python password_generator.py
-
-`
-
-On some systems:
-
-`bash
-
-python3 password_generator.py
-
-`
-
 Example:
-
 `text
-
 =========================
 
 Password Generator
@@ -77,18 +52,6 @@ x7@Qm2#L_p9A!k4Z
 `
 
 The password created will be on a different basis.
-
-Run Tests
-
-Run:
-
-`bash
-
-python -m unittest testpasswordgenerator.py
-
-`
-
-If all goes well, they will pass.
 
 Concepts Practiced
 
